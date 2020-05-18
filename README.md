@@ -1,2 +1,2 @@
-# patient-observer
-Estimates posture on the bed.
+# Patient Observer
+Estimates posture on the bed using Kinect.
